@@ -2,7 +2,7 @@
  172.31.26.26 ansible_ssh_user='ec2-user'
 
 [webservers]
-172.31.27.216 ansible_ssh_user='ec2-user'
+172.31.27.163 ansible_ssh_user='ec2-user'
 172.31.23.51 ansible_ssh_user='ec2-user'
 
 [db]
